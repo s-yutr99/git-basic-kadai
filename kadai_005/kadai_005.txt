@@ -1,21 +1,14 @@
-sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge & git add .
-• sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git commit
--V
-［main（root-commit） ce2ab5d］1回目のコミット
-1 file changed, 1 insertion(+) create mode 100644 hello_world. txt
-• sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge & git add .
-• sakuraiyutarou@sakuraiyutarounoMacBook-Pro git_challenge & git commit
--V
-［main d737f7b］ 2回目のコミット
-1 file changed, 2 insertions (+)
-• sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge & git log commit d737f7bfdbca4892b16e84d073b1ec94081935ab (HEAD →> main)
-Author: s-yutr99 <yutr0709@icloud.com>
-Date:
-Thu Sep 4 10:10:44 2025 +0900
-2回目のコミット
-commit ce2ab5d7b4aaffef106985ce2293b4b288e5d13e
-Author: s-yutr99 <yutr0709@icloud.com>
-Date:
-Thu Sep 4 10:08:44 2025 +0900
-1回目のコミット
-• sakuraiyutarou@sakuraiyutarounoMacBook-Pro git_challenge ®
+sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git init
+Reinitialized existing Git repository in /Users/sakuraiyutarou/git_challenge/.git/
+sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git add .
+sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git commit
+ -v
+[main 295b7b6] 1回目のコミット
+ 1 file changed, 1 deletion(-)
+sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % gir add .
+zsh: command not found: gir
+sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git add .
+sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git commit -v
+[main cfef91c] 2回目のコミット
+ 1 file changed, 1 insertion(+)
+sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % 
