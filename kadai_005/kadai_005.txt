@@ -1,26 +1,29 @@
 sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git add he
 llo_world.txt
+sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git add hello_world.txt
 sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git commit
- -m コミット
-[main 7f7a63f] コミット
- 1 file changed, 1 deletion(-)
+ -m hello_world.txtを追加
+[main a1315d5] hello_world.txtを追加
+ 1 file changed, 1 insertion(+), 2 deletions(-)
 sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git add hello_world.txt
-sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git commit -m コミット
-On branch main
-nothing to commit, working tree clean
-sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git add hello_world.txt
-sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git commit -m コミット
-[main 9a8417e] コミット
- 1 file changed, 1 insertion(+)
-sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git log
-commit 9a8417e8389de79e10f8a0eb33699a187b4cb5ef (HEAD -> main)
-Author: s-yutr99 <yutr0709@icloud.com>
-Date:   Thu Sep 4 16:59:10 2025 +0900
+sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git commit -m 日本語訳を追記       
+[main 00a31f8] 日本語訳を追記
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % git log --oneline
+00a31f8 (HEAD -> main) 日本語訳を追記
+a1315d5 hello_world.txtを追加
+9a8417e コミット
+7f7a63f コミット
+cfef91c 2回目のコミット
+295b7b6 1回目のコミット
+d737f7b 2回目のコミット
+ce2ab5d 1回目のコミット
+sakuraiyutarou@sakuraiyuutarounoMacBook-Pro git_challenge % 
 
-    コミット
 
-commit 7f7a63fe23b977292459d6ba208af0fd1783400f
-Author: s-yutr99 <yutr0709@icloud.com>
-Date:   Thu Sep 4 16:57:55 2025 +0900
 
-    コミット
+
+
+
+
+
